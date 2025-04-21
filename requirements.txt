@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+langchain_community
+python-dotenv
+langchain_groq
+langchain_openai
+groq
+Huggingface
+PIL
+io
+pillow
+pyteseract
